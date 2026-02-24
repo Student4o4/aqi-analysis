@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GIS specific
+*.aux
+*.aux.xml
+*.dbf
+*.prj
+*.qpj
+*.shp.xml
+*.shx
+*.cpg
+*.sbn
+*.sbx
+*.tif.ovr
+*.tfw
+*.jgw
+*.pgw
+
+# Data files
+*.geojson
+*.kml
+*.kmz
+*.gpx
+*.shp
+*.tif
+*.tiff
+*.img
+*.dem
+*.hdf
+*.nc
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment variables
+.env.local
+.env.production
